@@ -1,0 +1,135 @@
+D:\Projects\Mobile App\Baraka App
+├── App.js
+├── app.json
+├── assets
+|  ├── adaptive-icon.png
+|  ├── baraka.png
+|  ├── baraka_logo.png
+|  ├── deliveroo-delivery.gif
+|  ├── favicon.png
+|  ├── fonts
+|  |  ├── OFL.txt
+|  |  ├── Tajawal-Black.ttf
+|  |  ├── Tajawal-Bold.ttf
+|  |  ├── Tajawal-ExtraBold.ttf
+|  |  ├── Tajawal-ExtraLight.ttf
+|  |  ├── Tajawal-Light.ttf
+|  |  ├── Tajawal-Medium.ttf
+|  |  └── Tajawal-Regular.ttf
+|  ├── icon.png
+|  └── splash-icon.png
+├── babel.config.js
+├── index.js
+├── metro.config.js
+├── package-lock.json
+├── package.json
+├── README.md
+├── src
+|  ├── assets
+|  |  ├── banner (1).png
+|  |  ├── banner (2).png
+|  |  ├── banner (3).png
+|  |  └── icon.png
+|  ├── components
+|  |  ├── cart
+|  |  |  ├── AddToCart.js
+|  |  |  ├── CartItem.js
+|  |  |  └── CartSummary.js
+|  |  ├── common
+|  |  |  ├── Button.js
+|  |  |  ├── CategoryCard.js
+|  |  |  ├── CustomAlert.js
+|  |  |  ├── Header.js
+|  |  |  ├── ProductCard.js
+|  |  |  ├── ProductGrid.js
+|  |  |  └── SearchBar.js
+|  |  ├── GlobalText.js
+|  |  ├── product
+|  |  |  ├── ProductDetail.js
+|  |  |  ├── ProductGrid.js
+|  |  |  └── ProductList.js
+|  |  └── ui
+|  |     ├── banner.js
+|  |     ├── EmptyState.js
+|  |     ├── Loading.js
+|  |     └── TabView.js
+|  ├── context
+|  |  ├── AppContext.js
+|  |  ├── AuthContext.js
+|  |  ├── CartContext.js
+|  |  └── WishlistContext.js
+|  ├── data
+|  |  ├── categories.js
+|  |  ├── mockData.js
+|  |  └── products.js
+|  ├── hooks
+|  |  ├── useAuth.js
+|  |  ├── useCart.js
+|  |  ├── useCustomAlert.js
+|  |  ├── useDebounce.js
+|  |  ├── useFonts.js
+|  |  ├── useLocalSearch.js
+|  |  ├── useProducts.js
+|  |  └── useWishlist.js
+|  ├── locales
+|  |  ├── ar.json
+|  |  └── en.json
+|  ├── navigation
+|  |  ├── AppNavigator.js
+|  |  ├── AuthNavigator.js
+|  |  ├── MainNavigator.js
+|  |  ├── StackNavigators.js
+|  |  └── TabNavigator.js
+|  ├── screens
+|  |  ├── auth
+|  |  |  ├── ForgotPasswordScreen.js
+|  |  |  ├── LoginScreen.js
+|  |  |  └── RegisterScreen.js
+|  |  ├── CartScreen.js
+|  |  ├── CategoriesScreen.js
+|  |  ├── CheckoutScreen.js
+|  |  ├── HomeScreen.js
+|  |  ├── ProductDetailScreen.js
+|  |  ├── profilePageScreens
+|  |  |  ├── AboutUsScreen.js
+|  |  |  ├── ChangePasswordScreen.js
+|  |  |  ├── ContactScreen.js
+|  |  |  ├── EditAddressScreen.js
+|  |  |  ├── EditPersonalInfoScreen.js
+|  |  |  ├── EditProfileScreen.js
+|  |  |  ├── HelpSupportScreen.js
+|  |  |  ├── LoginActivityScreen.js
+|  |  |  ├── NotificationScheduleScreen.js
+|  |  |  ├── NotificationsScreen.js
+|  |  |  ├── OrderHistoryScreen.js
+|  |  |  ├── PaymentMethodsScreen.js
+|  |  |  ├── PersonalInfoScreen.js
+|  |  |  ├── PrivacyPolicyScreen.js
+|  |  |  ├── PrivacySecurityScreen.js
+|  |  |  ├── ReturnPolicyScreen.js
+|  |  |  ├── SettingsScreen.js
+|  |  |  ├── ShippingAddressesScreen.js
+|  |  |  ├── ShippingGuideScreen.js
+|  |  |  ├── TermsOfServiceScreen.js
+|  |  |  ├── WarrantyInfoScreen.js
+|  |  |  └── WishlistScreen.js
+|  |  ├── ProfileScreen.js
+|  |  └── SearchScreen.js
+|  ├── services
+|  |  ├── api.js
+|  |  └── storage.js
+|  ├── styles
+|  |  ├── colors.js
+|  |  ├── tailwind.js
+|  |  └── theme.js
+|  └── utils
+|     ├── animations.js
+|     ├── constants.js
+|     ├── formatters.js
+|     ├── helpers.js
+|     └── validation.js
+└── tailwind.config.js
+
+directory: 5630 file: 37352
+
+ignored: directory (331)

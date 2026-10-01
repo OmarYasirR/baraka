@@ -1,0 +1,91 @@
+{
+  "common": {
+    "welcome": "مرحباً بك في أوتوبارتس برو",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "success": "تم بنجاح",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "confirm": "تأكيد",
+    "search": "بحث",
+    "home": "الرئيسية",
+    "categories": "الفئات",
+    "cart": "عربة التسوق",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "ok": "OK",
+    "seeAll": "الكل"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "register": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟"
+  },
+  "products": {
+    "products": "المنتجات",
+    "product": "المنتج",
+    "price": "السعر",
+    "addToCart": "أضف إلى العربة",
+    "buyNow": "اشتري الآن",
+    "inStock": "متوفر",
+    "outOfStock": "غير متوفر",
+    "features": "المميزات",
+    "specifications": "المواصفات",
+    "reviews": "التقييمات",
+    "relatedProducts": "منتجات ذات صلة"
+  },
+  "cart": {
+    "shoppingCart": "عربة التسوق",
+    "emptyCart": "عربة التسوق فارغة",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "tax": "الضريبة",
+    "total": "المجموع الكلي",
+    "checkout": "إتمام الشراء",
+    "continueShopping": "مواصلة التسوق"
+  },
+  "profile": {
+    "personalInfo": "المعلومات الشخصية",
+    "editProfile": "تعديل الملف",
+    "changePassword": "تغيير كلمة المرور",
+    "orderHistory": "سجل الطلبات",
+    "wishlist": "المفضلة",
+    "addresses": "العناوين",
+    "notifications": "الإشعارات",
+    "language": "اللغة",
+    "help": "المساعدة والدعم"
+  },
+  "settings": {
+    "language": "اللغة",
+    "chooseLanguage": "اختر لغة التطبيق",
+    "restartRequired": "يجب إعادة تشغيل التطبيق لتطبيق التغييرات.",
+    "languageChanged": "تم تغيير اللغة بنجاح!",
+    "note": "ملاحظة",
+    "restartNote": "قد تحتاج بعض تغييرات التخطيط إلى إعادة تشغيل التطبيق.",
+    "currentSettings": "الإعدادات الحالية",
+    "currentLanguage": "اللغة الحالية",
+    "textDirection": "اتجاه النص",
+    "nativeLang": "الانجليزيه"
+  },
+  "search":{
+    "searchLabel": "البحث عن قطع غيار"
+  },
+  "categories": {
+    "searchPlaceholder": "ابحث في الأقسام...",
+    "allProducts": "كل المنتجات",
+    "featured": "مميز",
+    "priceLow": "السعر: من الأقل",
+    "priceHigh": "السعر: من الأعلى",
+    "topRated": "الأعلى تقييماً",
+    "name": "الاسم",
+    "sort": "الترتيب:",
+    "productsCount": "{{count}} منتج"
+  }
+}

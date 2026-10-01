@@ -1,0 +1,90 @@
+{
+  "common": {
+    "welcome": "Welcome to AutoParts Pro",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "search": "Search",
+    "home": "Home",
+    "categories": "Categories",
+    "cart": "Cart",
+    "profile": "Profile",
+    "settings": "Settings",
+    "ok": "OK",
+    "seeAll": "See All"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "products": {
+    "products": "Products",
+    "product": "Product",
+    "price": "Price",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "features": "Features",
+    "specifications": "Specifications",
+    "reviews": "Reviews",
+    "relatedProducts": "Related Products"
+  },
+  "cart": {
+    "shoppingCart": "Shopping Cart",
+    "emptyCart": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping"
+  },
+  "profile": {
+    "personalInfo": "Personal Information",
+    "editProfile": "Edit Profile",
+    "changePassword": "Change Password",
+    "orderHistory": "Order History",
+    "wishlist": "Wishlist",
+    "addresses": "Addresses",
+    "notifications": "Notifications",
+    "language": "Language",
+    "help": "Help & Support"
+  },
+  "settings": {
+    "language": "Language",
+    "chooseLanguage": "Choose your app language",
+    "restartRequired": "Restart is required to apply changes.",
+    "languageChanged": "Language changed successfully!",
+    "note": "Note",
+    "restartNote": "Some layout changes may require app restart.",
+    "currentSettings": "Current Settings",
+    "currentLanguage": "Current Language",
+    "textDirection": "Text Direction"
+  },
+  "search":{
+    "searchLabel": "Search for parts, brands..."
+  },
+  "categories": {
+    "searchPlaceholder": "Search in categories...",
+    "allProducts": "All Products",
+    "featured": "Featured",
+    "priceLow": "Price: Low",
+    "priceHigh": "Price: High",
+    "topRated": "Top Rated",
+    "name": "Name",
+    "sort": "Sort:",
+    "productsCount": "{{count}} products"
+  }
+}
