@@ -3,7 +3,6 @@
 
 <div align="center">
 
-<img src="./assets/baraka_logo.png" alt="Baraka App Logo" width="140" />
 
 # Baraka App
 
